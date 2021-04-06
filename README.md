@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali!
 - 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning Javascript basics
+- 🌱 I’m currently learning Async Javascript
 
 <!---
 alimansoor-create/alimansoor-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
